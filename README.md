@@ -1,16 +1,22 @@
-# flutter_application_1
+# pertemuan kedua - layout flutter
 
-A new Flutter project.
+## Praktikum 1 - 4
 
-## Getting Started
+1. Praktikum 1 : Membangun Layout di Flutter
+   <img width="1428" height="2496" alt="image" src="https://github.com/user-attachments/assets/7bd9647e-2c52-4c43-becc-519b18189284" />
+   <img width="277" height="593" alt="image" src="https://github.com/user-attachments/assets/acf51987-0a48-41a5-8a9b-1a1c212ac1c5" />
 
-This project is a starting point for a Flutter application.
+2. Praktikum 2 : Implementasi Button Row
+   <img width="1580" height="3502" alt="image" src="https://github.com/user-attachments/assets/61d2a7b9-f871-4baf-8a51-0c2a53de9afb" />
+   <img width="282" height="595" alt="image" src="https://github.com/user-attachments/assets/04a1ad8b-dab3-4806-9534-696eb5b011c9" />
+ 
+3. Praktikum 3 : Implementasi Text Section
+   <img width="1632" height="4022" alt="image" src="https://github.com/user-attachments/assets/2e27d431-e24a-4bf9-8463-13f1fbb9f72d" />
+   <img width="278" height="594" alt="image" src="https://github.com/user-attachments/assets/21d31b55-a125-4081-8e1e-cbc991b0d6dc" />
 
-A few resources to get you started if this is your first Flutter project:
+4. Praktikum 4 : Implementasi Image Section
+   <img width="1580" height="4246" alt="image" src="https://github.com/user-attachments/assets/e54710be-f205-4058-82e7-80639666330e" />
+   <img width="276" height="596" alt="image" src="https://github.com/user-attachments/assets/6964adec-46a4-4d55-8e99-0f0bc3d10e74" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
