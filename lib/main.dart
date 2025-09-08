@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
     'Carilah teks di internet yang sesuai '
     'dengan foto atau tempat wisata yang ingin '
     'Anda tampilkan. '
-    'Tambahkan nama dan NIM Anda sebagai '
+    'Tambahkan nama (Muhamad Abdul Ghofur) dan NIM (362458302016) Anda sebagai '
     'identitas hasil pekerjaan Anda. '
     'Selamat mengerjakan 🙂.',
     softWrap: true,
